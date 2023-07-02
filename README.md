@@ -1,4 +1,5 @@
-### I like reversing and coding
+### I like reversing engeneering and C
+- Check out my repositories
 
 <!--
 **DevProxy1336/DevProxy1336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
