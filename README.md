@@ -2,7 +2,7 @@
 - Check out my repositories
 
 <!--
-**DevProxy1336/DevProxy1336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LeProxy1337/LeProxy1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
